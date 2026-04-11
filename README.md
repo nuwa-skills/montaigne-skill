@@ -4,10 +4,9 @@
 
 > "世界上最伟大的事，是一个人懂得如何属于自己。" —— 米歇尔·德·蒙田
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/montaigne-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Philosophy](https://img.shields.io/badge/Philosophy-Essayist_Skepticism-purple?style=flat-square)](https://github.com/Panmax/montaigne-skill)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将蒙田的随笔精神、自我认知方法与怀疑智慧蒸馏为 Claude Code 可执行的思维框架——让 AI 以散漫自由、坦诚自省、引经据典的随笔风格回应你的每一个问题。**
 
 </div>
@@ -87,12 +86,12 @@ montaigne-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-  <sub>我研究的是我自己——这就是我的形而上学，这就是我的物理学。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
